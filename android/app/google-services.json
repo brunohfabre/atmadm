@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1020380049045",
+    "firebase_url": "https://atm-administrativo.firebaseio.com",
+    "project_id": "atm-administrativo",
+    "storage_bucket": "atm-administrativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020380049045:android:e59891a9d90a7859",
+        "android_client_info": {
+          "package_name": "br.com.atmoutsourcing.atmadministrativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020380049045-v3a2vq8hjoold2ar44kekdfaf9valtsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.atmoutsourcing.atmadministrativo",
+            "certificate_hash": "1c17ff07c7014ffaebbb2fd35904d6cc8d08499e"
+          }
+        },
+        {
+          "client_id": "1020380049045-sutmq58o88t6hpcs5sf8av016fdmh249.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.atmoutsourcing.atmadministrativo",
+            "certificate_hash": "b36a6866b3df7868f2962e4c4b867306f1c5e35e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK98SI5N3StWKwAfyJAuU7AIanm6KMSzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020380049045-1136mh15839rp0f4lruc41g3e6l5pl8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020380049045-t709hmbqu3jmqnmn9l7hpl443bs3hsha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.atmoutsourcing.atmadministrativo2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020380049045:android:8ba680906f33e3a5",
+        "android_client_info": {
+          "package_name": "com.atmadministrativo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK98SI5N3StWKwAfyJAuU7AIanm6KMSzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020380049045-1136mh15839rp0f4lruc41g3e6l5pl8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020380049045-t709hmbqu3jmqnmn9l7hpl443bs3hsha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.atmoutsourcing.atmadministrativo2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

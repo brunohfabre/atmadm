@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1020380049045-t709hmbqu3jmqnmn9l7hpl443bs3hsha.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1020380049045-t709hmbqu3jmqnmn9l7hpl443bs3hsha</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1020380049045-sutmq58o88t6hpcs5sf8av016fdmh249.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeulJ9MCvBP-fWzHvEMlmu9mHg1_JeqPM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020380049045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.atmoutsourcing.atmadministrativo2</string>
+	<key>PROJECT_ID</key>
+	<string>atm-administrativo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>atm-administrativo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020380049045:ios:7d4c82396a97e27a</string>
+	<key>DATABASE_URL</key>
+	<string>https://atm-administrativo.firebaseio.com</string>
+</dict>
+</plist>
